@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Hello, World!"
+python nom_prenom.py
